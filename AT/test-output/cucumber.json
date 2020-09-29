@@ -1,0 +1,129 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-29T04:25:04.075Z",
+        "line": 3,
+        "name": "Verify that Automation Testing web application menu item is working fine.",
+        "description": "",
+        "id": "automation-testing-webpage-validations;verify-that-automation-testing-web-application-menu-item-is-working-fine.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5435679800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open \"Chrome\" Browser",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Chrome",
+                  "offset": 6
+                }
+              ],
+              "location": "stepDefinitions.AutomationTesting.open_Browser(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8938646200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch \"http://demo.automationtesting.in/Register.html\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://demo.automationtesting.in/Register.html",
+                  "offset": 8
+                }
+              ],
+              "location": "stepDefinitions.AutomationTesting.enter_URL(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15995000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify the page title as \"Register\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Register",
+                  "offset": 26
+                }
+              ],
+              "location": "stepDefinitions.AutomationTesting.verifypageTitle(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2325024300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on \"Alerts\" under \"SwitchTo\" menu.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Alerts",
+                  "offset": 10
+                },
+                {
+                  "val": "SwitchTo",
+                  "offset": 25
+                }
+              ],
+              "location": "stepDefinitions.AutomationTesting.fetchdata(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 161258732200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify all sub menu pages are opening or not.",
+            "match": {
+              "location": "stepDefinitions.AutomationTesting.verifysubmenupages()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1094740400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "close the browser",
+            "match": {
+              "location": "stepDefinitions.AutomationTesting.closeBrowsr()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test"
+          }
+        ]
+      }
+    ],
+    "name": "Automation testing webpage validations",
+    "description": "",
+    "id": "automation-testing-webpage-validations",
+    "keyword": "Feature",
+    "uri": "file:src/Features/Test.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,41 @@
+INFO    2020-09-29 09:55:09,563 [main] stepDefinitions.AutomationTesting  - Chrome Browser is opened successfully
+INFO    2020-09-29 09:55:18,524 [main] stepDefinitions.AutomationTesting  - Application is opened successfully
+INFO    2020-09-29 09:55:19,849 [main] stepDefinitions.AutomationTesting  - Alertsitem is successfully clicked under SwitchToitem.
+INFO    2020-09-29 09:55:21,276 [main] stepDefinitions.AutomationTesting  - Number of items present in menu are 10
+INFO    2020-09-29 09:55:41,405 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Home is false
+INFO    2020-09-29 09:56:01,544 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Register is false
+INFO    2020-09-29 09:56:01,558 [main] stepDefinitions.AutomationTesting  - Register item page is opened successfully.
+INFO    2020-09-29 09:56:22,434 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under WebTable is false
+INFO    2020-09-29 09:56:22,449 [main] stepDefinitions.AutomationTesting  - WebTable item page is opened successfully.
+INFO    2020-09-29 09:56:28,239 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under SwitchTo is true
+INFO    2020-09-29 09:56:29,227 [main] stepDefinitions.AutomationTesting  - Alerts page is opened successfully.
+INFO    2020-09-29 09:56:30,975 [main] stepDefinitions.AutomationTesting  - Windows page is opened successfully.
+INFO    2020-09-29 09:56:32,961 [main] stepDefinitions.AutomationTesting  - Frames page is opened successfully.
+INFO    2020-09-29 09:56:35,577 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Widgets is true
+INFO    2020-09-29 09:56:35,946 [main] stepDefinitions.AutomationTesting  - Accordion page is opened successfully.
+INFO    2020-09-29 09:56:37,771 [main] stepDefinitions.AutomationTesting  - AutoComplete page is opened successfully.
+INFO    2020-09-29 09:56:39,834 [main] stepDefinitions.AutomationTesting  - Datepicker page is opened successfully.
+INFO    2020-09-29 09:56:43,048 [main] stepDefinitions.AutomationTesting  - Slider page is opened successfully.
+INFO    2020-09-29 09:56:45,551 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Interactions is true
+INFO    2020-09-29 09:56:45,834 [main] stepDefinitions.AutomationTesting  - Drag and Drop page is opened successfully.
+INFO    2020-09-29 09:56:47,132 [main] stepDefinitions.AutomationTesting  - Selectable page is opened successfully.
+INFO    2020-09-29 09:56:49,266 [main] stepDefinitions.AutomationTesting  - Resizable page is opened successfully.
+INFO    2020-09-29 09:56:51,408 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Video is true
+INFO    2020-09-29 09:56:51,731 [main] stepDefinitions.AutomationTesting  - Youtube page is opened successfully.
+INFO    2020-09-29 09:56:54,320 [main] stepDefinitions.AutomationTesting  - Vimeo page is opened successfully.
+INFO    2020-09-29 09:56:56,850 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under WYSIWYG is true
+INFO    2020-09-29 09:56:57,126 [main] stepDefinitions.AutomationTesting  - TinyMCE page is opened successfully.
+INFO    2020-09-29 09:57:00,056 [main] stepDefinitions.AutomationTesting  - CKEditor page is opened successfully.
+INFO    2020-09-29 09:57:02,942 [main] stepDefinitions.AutomationTesting  - SummerNote page is opened successfully.
+INFO    2020-09-29 09:57:06,093 [main] stepDefinitions.AutomationTesting  - CodeMirror page is opened successfully.
+INFO    2020-09-29 09:57:16,756 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under More is true
+INFO    2020-09-29 09:57:17,013 [main] stepDefinitions.AutomationTesting  - Charts page is opened successfully.
+INFO    2020-09-29 09:57:20,035 [main] stepDefinitions.AutomationTesting  - Dynamic Data page is opened successfully.
+INFO    2020-09-29 09:57:24,489 [main] stepDefinitions.AutomationTesting  - File Download page is opened successfully.
+INFO    2020-09-29 09:57:26,264 [main] stepDefinitions.AutomationTesting  - File Upload page is opened successfully.
+INFO    2020-09-29 09:57:28,491 [main] stepDefinitions.AutomationTesting  - JQuery ProgressBar page is opened successfully.
+INFO    2020-09-29 09:57:30,171 [main] stepDefinitions.AutomationTesting  - Loader page is opened successfully.
+INFO    2020-09-29 09:57:33,192 [main] stepDefinitions.AutomationTesting  - Modals page is opened successfully.
+INFO    2020-09-29 09:57:35,006 [main] stepDefinitions.AutomationTesting  - ProgressBar page is opened successfully.
+INFO    2020-09-29 09:57:57,481 [main] stepDefinitions.AutomationTesting  - Sub menu items are present under Practice Site is false
+INFO    2020-09-29 09:57:57,495 [main] stepDefinitions.AutomationTesting  - Practice Site item page is opened successfully.
